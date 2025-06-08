@@ -1,6 +1,7 @@
 # StratAssist Research Dataset Repository
-This repository contains the dataset used in the research paper "Understanding User Perception of Human-LLM Collaboration in AI-Assisted Decision-Making" by Park et al.
-Paper Overview
+This repository contains the dataset used in the research paper "Understanding User Perception of Human-LLM Collaboration in AI-Assisted Decision-Making".
+
+### Paper Overview
 This study investigates the potential of Large Language Models (LLMs) in facilitating strategic planning through human-AI collaboration. We developed StratAssist, a prototype system that implements three levels of LLM involvement in strategy development: form-based input, chatbot-assisted input, and LLM-driven input.
 Dataset Description
 The dataset was specifically created for the Retrieval-Augmented Generation (RAG) module of the StratAssist system to enhance LLM's context-dependent thinking in strategic planning tasks. The dataset augments general pre-trained knowledge with recent, task-specific information relevant to business strategy development.
